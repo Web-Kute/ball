@@ -11,7 +11,7 @@ const rollAnimation = [
     color: 'white',
   },
   {
-    color: 'blue',
+    color: '#f0932b',
     offset: 0.3,
   },
   {
